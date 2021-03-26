@@ -5,4 +5,4 @@ ___
 
 ### PREVIEW
 
-[](https://cdn.discordapp.com/attachments/773221397928869888/825100608166952980/card_preview.png)
+![](https://cdn.discordapp.com/attachments/773221397928869888/825100608166952980/card_preview.png)
