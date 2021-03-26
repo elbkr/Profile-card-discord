@@ -1,4 +1,4 @@
-# Discord-Profile-Card-
+# Discord style interactive profile card
 customizable profile card like discord, made with bootstrap
 
 How to customize? 
