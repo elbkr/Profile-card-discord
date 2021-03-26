@@ -4,9 +4,4 @@ customizable profile card like discord, made with bootstrap
 ___
 
 ### PREVIEW
-![wait]
-
-___
-
-# SUPPORT SERVER
-https://discord.gg/qQN7YdE
+[](https://cdn.discordapp.com/attachments/773221397928869888/825100608166952980/card_preview.png)
