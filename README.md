@@ -1,6 +1,10 @@
 # Discord-Profile-Card-
 customizable profile card like discord, made with bootstrap
 
+How to customize? 
+
+- Go to `index.html`
+- Change the values
 ___
 
 ### PREVIEW
